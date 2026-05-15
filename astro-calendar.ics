@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Astro Calendar May 2026//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro Calendar Май 2026
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:2026-05-01-141689d8-38b5-4046-870f-1d9c24bc0a2e@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Полнолуние в Скорпионе
+DESCRIPTION:Точка тотальной честности. Вскрываем нарывы в деньгах и отнош
+ ениях. Сказать «нет» выматывающим клиентам\, закрыть старые хвосты. Врем
+ я: 20:23 МСК.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-b4359255-251a-4a02-846f-635e4a4f1d83@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Венера в Близнецах: продаём голосом
+DESCRIPTION:До 18 мая — время прямых эфиров\, нетворкинга\, коллабораций\
+ , текстов и общения. Клиенты приходят через вашу энергию в коммуникации.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-14-050bc78c-f76e-4426-b642-746d8b9477a5@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Меркурий соединяется с Солнцем
+DESCRIPTION:Самый сильный день для стратегии. Голова ясная\, слова имеют 
+ вес. Отправлять офферы\, проводить стратсессии\, фиксировать смыслы.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-778eee36-1edb-483e-a1d3-e1c3781dcb31@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Новолуние в Тельце
+DESCRIPTION:Главное денежное событие года. Пропишите конкретную сумму на 
+ счету к конкретной дате. Время: 23:03 МСК.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-17-bce3c4eb-b3ca-4ca9-b984-87395f10d7bc@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Информационный взрыв: старт
+DESCRIPTION:17–22 мая — Меркурий и Уран в Близнецах. Идеи прилетают пачка
+ ми. То\, что пришло в голову\, выпускайте в сторис в течение суток.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-18-aaecb39f-cefd-4a38-9a38-b857cda7ab27@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Венера в Раке: тепло и лояльность
+DESCRIPTION:Вайб меняется на домашний и уютный. В блоге хорошо зайдут лай
+ фстайл\, семья\, дом\, чувства — это даёт теплоту и доверие.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-5f47f010-5807-4e97-8a99-613c0e7a275e@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Инсайт по позиционированию
+DESCRIPTION:Ждите важный инсайт по вашему позиционированию. Фиксируйте ид
+ еи\, обновляйте смыслы\, формулируйте себя яснее.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-25-b077e583-2a8c-4128-801f-5d2ba6bd324a@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Марс квадрат Плутон
+DESCRIPTION:Опасный аспект: силовые игры\, борьба за власть и деньги. Не 
+ подписывать договоры\, не входить в конфликты\, не делать резких движени
+ й.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-31-9d352d77-373e-4d59-bffb-b9a2ec475d61@astro-calendar
+DTSTAMP:20260515T120000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Голубая Луна в Стрельце
+DESCRIPTION:Финал месяца про масштаб. Объявляйте большие цели миру. Лучши
+ й момент\, чтобы анонсировать запуск на лето. Время: 11:46 МСК.
+END:VEVENT
+END:VCALENDAR
